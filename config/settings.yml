@@ -1,0 +1,7 @@
+plugins:
+  vc_sso_fallback_enabled:
+    default: true
+    client: true
+  vc_sso_allowed_hosts:
+    default: "auth.victoriouschristians.com"
+    client: true
