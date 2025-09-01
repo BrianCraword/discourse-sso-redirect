@@ -1,0 +1,5 @@
+en:
+  js:
+    vc_sso_redirect:
+      fallback_enabled: "VC SSO: enable client-side fallback"
+      allowed_hosts: "VC SSO: allowed redirect hosts (comma/pipe/space separated)"
